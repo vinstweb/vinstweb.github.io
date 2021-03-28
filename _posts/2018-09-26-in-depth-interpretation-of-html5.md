@@ -6,6 +6,7 @@ date:       2018-09-26 12:00:00
 author:     "Vinst"
 header-img: "img/post-head/html5-note.jpg"
 catalog:    true
+comments:   true
 tags:
 
     - HTML5

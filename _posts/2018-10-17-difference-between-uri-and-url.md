@@ -5,6 +5,7 @@ subtitle:   "What Is The Difference Between A URI And A URL?"
 date:       2018-10-17 14:17:00
 author:     "Vinst"
 header-img: "img/post-head/20181017post/url_uri_head.jpg"  
+comments:   true
 tags:
 
     - WEB

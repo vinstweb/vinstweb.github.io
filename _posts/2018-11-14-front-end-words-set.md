@@ -4,6 +4,7 @@ title:      "前端词汇集合（一）"
 subtitle:   "Front-end vocabulary set NO.1"
 date:       2018-11-14 22:03:00
 author:     "Vinst" 
+comments:   true
 tags:
 
     - 前端
@@ -89,8 +90,3 @@ ECMAScript 6，JavaScript 的第六代标准，新增了 let、const、解构赋
 **推荐文章：**  
 [前端安全系列（一）：如何防止XSS攻击？](https://segmentfault.com/a/1190000016551188)  
 [前端安全系列（二）：如何防止CSRF攻击？](https://segmentfault.com/a/1190000016659945)
-
-
-。。。待续
-
-[阅读原文](https://github.com/vinstweb/Front-End-Knowledge-Tree/blob/master/Front-End-Words-Set.md) 请关注我的 [github](https://github.com/vinstweb)
